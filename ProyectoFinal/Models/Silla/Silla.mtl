@@ -1,0 +1,35 @@
+newmtl SillaAbajo1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blancoSilla.jpg
+Ni 1.00
+newmtl SillaAbajo1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroLlantas.jpg
+Ni 1.00
+newmtl sillaArriba1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blancoSilla.jpg
+Ni 1.00
+newmtl sillaArriba1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroLlantas.jpg
+Ni 1.00
+newmtl sillaArriba1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisSilla.jpg
+Ni 1.00
